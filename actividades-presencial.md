@@ -2,7 +2,7 @@
 
 ### Ejercicio 1: el mágico mundo de las expresiones regulares
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/m7mwpcjgiejhbtetsp792/01_regex.R?rlkey=w7izz5z8jvvi48lsblysbvxpu&dl=0)
 
 
 #### Desafío de práctica
