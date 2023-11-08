@@ -4,6 +4,7 @@ En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl
 
 ## Preparación
 
+
 ### Primera sesión
 
 Para realizar las actividades planificadas para la primera sesión necesitarás una versión reciente de R (> 4.1), los paquetes contenidos en el Tidyverse y el paquete **guaguas**. Puedes instalarlos con la siguiente línea de código:
@@ -14,6 +15,7 @@ install.packages("guaguas")
 ```
 
 
+
 ## Actividades 
 
 Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el **código "en vivo"** en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. Si bien las actividades de la sección presencial y online son las mismas, es posible que avancemos a un ritmo distinto o que el código difiera un poco producto de cómo se da la discusión en clases. 
@@ -21,6 +23,16 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 
 🏢 [materiales sección presencial](https://github.com/rivaquiroga/analisis-de-textos-r-2023/blob/main/actividades-presencial.md)
 
+
+Todo el código que escribamos en clases asumirá que estás trabajando en un "projecto" de RStudio que tiene una subcarpeta para guardar el código y otra para guardar los datos. Crearemos esta estructura de carpetas durante la primera sesión, así que no es necesario que lo hagas con anticipación.
+
+```
+📂 analisis-texto-r
+    |
+    |-- 📁 codigo
+    |-- 📁 datos
+    |-- 🔵 analisis-texto-r.Rproj
+```
 
 ## Recursos adicionales
 
