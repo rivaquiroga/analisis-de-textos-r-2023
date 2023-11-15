@@ -19,3 +19,12 @@ Hay dos aproximaciones para resolver el problema:
  - Modificar la columna "estudiante" en uno de los dataframes para que el formato coincida con la forma en que se escribieron los nombres en el otro.
 
 :sparkles: [Solución]() (¡pronto!)
+
+
+### Ejercicio 2: Extracción de texto de un archivo en PDF + limpieza y preprocesamiento
+
+📄 [Código escrito en clases](﻿https://www.dropbox.com/scl/fi/q60c0f5mzgholj3igtxgm/02_extraccion-preprocesamiento.R?rlkey=gkcf7vnlx9ll32js1c6pdgkoc&dl=0)
+
+🗣️ [Ejemplo de archivo PDF](https://www.dropbox.com/scl/fi/7ubt6pceaw4hxfxgy75f7/20140521.pdf?rlkey=ggnx71ufih6jbtnlmf1nglvv6&dl=0)
+
+🔡 [Ejemplo de lista de "stopwords" en español](https://raw.githubusercontent.com/7PartidasDigital/AnaText/master/datos/diccionarios/vacias.txt)
