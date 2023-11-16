@@ -19,7 +19,7 @@ install.packages("guaguas")
 Durante esta sesión ocuparemos los siguentes paquetes (además de los instalados en la sesión anterior):
 
 ```
-install.packages(c("pdftools", "tokenizers", "SnowballC", "udpipe", "tidytext", "wordcloud", "ggtext"))
+install.packages(c("pdftools", "tokenizers", "SnowballC", "udpipe", "tidytext", "wordcloud"))
 ```
 
 
