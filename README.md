@@ -22,6 +22,7 @@ Durante esta sesión ocuparemos los siguentes paquetes (además de los instalado
 install.packages(c("pdftools", "tokenizers", "SnowballC", "udpipe", "tidytext", "wordcloud"))
 ```
 
+Hay personas que trabajan con Windows a las que a veces el paquete **pdftools** no les funciona correctamente porque sus computadores requieren que se instale además una herramienta llamada [Poppler](https://poppler.freedesktop.org/). Si ese es el caso, hay dos opciones: trabajar en [Posit Cloud](https://posit.cloud) durante esta sesión o utilizar el "plan B" que se indicará en clases (básicamente, descargar el objeto que crearemos usando una función de pdftools). 
 
 ## Actividades 
 
