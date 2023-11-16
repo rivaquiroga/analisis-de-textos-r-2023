@@ -46,6 +46,7 @@ Todo el código que escribamos en clases asumirá que estás trabajando en un "p
 
 ### Documentación librerías utilizadas
 - [stringr](https://stringr.tidyverse.org/index.html)
+- [Hoja de referencia del paquete stringr en español](https://github.com/rstudio/cheatsheets/blob/main/translations/spanish/strings_es.pdf)
   
 ### Sobre expresiones regulares
 
