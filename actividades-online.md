@@ -2,7 +2,7 @@
 
 ### Ejercicio 1: el mágico mundo de las expresiones regulares
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/rjqp53v3sas41o6h2aep9/01_regex.R?rlkey=zx1v3yyhl9odku0y9zhypmwea&dl=0)
 
 
 #### Desafío de práctica
@@ -21,10 +21,3 @@ Hay dos aproximaciones para resolver el problema:
 :sparkles: [Solución]() (¡pronto!)
 
 
-### Ejercicio 2: Extracción de texto de un archivo en PDF + limpieza y preprocesamiento
-
-📄 [Código escrito en clases]()
-
-🗣️ [Ejemplo de archivo PDF](https://www.dropbox.com/scl/fi/7ubt6pceaw4hxfxgy75f7/20140521.pdf?rlkey=ggnx71ufih6jbtnlmf1nglvv6&dl=0) ([Plan B: el archivo *.rds](https://www.dropbox.com/scl/fi/topr9d7acuhe96b0mky26/discurso_2014.rds?rlkey=ab51ku4lhhquvag6i3fxn3ye3&dl=0))
-
-🔡 [Ejemplo de lista de "stopwords" en español](https://raw.githubusercontent.com/7PartidasDigital/AnaText/master/datos/diccionarios/vacias.txt)
