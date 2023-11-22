@@ -29,6 +29,8 @@ Hay personas que trabajan con Windows a las que a veces el paquete **pdftools** 
 Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el **código "en vivo"** en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. Si bien las actividades de la sección presencial y online son las mismas, es posible que avancemos a un ritmo distinto o que el código difiera un poco producto de cómo se da la discusión en clases. 
 
 
+🖥️ [materiales sección online](https://github.com/rivaquiroga/analisis-de-textos-r-2023/blob/main/actividades-online.md)
+
 🏢 [materiales sección presencial](https://github.com/rivaquiroga/analisis-de-textos-r-2023/blob/main/actividades-presencial.md)
 
 
