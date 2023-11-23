@@ -1,6 +1,6 @@
 # Análisis de texto con R
 
-En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando R. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. Existe una sección paralela en la que abordamos los mismo contenidos, pero [usando Python](https://github.com/rivaquiroga/analisis-de-texto-python-2023).
+En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando R. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. Existe una sección paralela en la que abordamos casi los mismos contenidos, pero [usando Python](https://github.com/rivaquiroga/analisis-de-texto-python-2023).
 
 ## Preparación
 
@@ -64,7 +64,8 @@ Todo el código que escribamos en clases asumirá que estás trabajando en un "p
 - [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
 - [Hoja de referencia de la sintaxis de expresiones regulares](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-### Libros en línea
+### Libros y artículos en línea
 
 - [Text Mining with R](https://www.tidytextmining.com/)
 - [Supervised Machine Learning for Text Analysis](https://smltar.com/)
+- [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
