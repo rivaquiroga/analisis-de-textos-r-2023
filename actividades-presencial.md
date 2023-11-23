@@ -40,5 +40,5 @@ Hay dos aproximaciones para resolver el problema:
 
 📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/th843b2zjbsmz2tjqfgbn/04_similitud-topicos.R?rlkey=2al35g3ejjlnl0odhnqwsphf1&dl=0)
 
-📰 [Datos](https://www.dropbox.com/scl/fi/mp84hnp53cfnol9g1fblv/mil_noticias.csv?rlkey=qw0v1zjrn0m7euadajnff80ly&dl=0)
+📰 [Datos](https://raw.githubusercontent.com/rivaquiroga/analisis-de-textos-r-2023/main/mil_noticias.csv)
 
