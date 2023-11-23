@@ -24,6 +24,14 @@ install.packages(c("pdftools", "tokenizers", "SnowballC", "udpipe", "tidytext", 
 
 Hay personas que trabajan con Windows a las que a veces el paquete **pdftools** no les funciona correctamente porque sus computadores requieren que se instale además una herramienta llamada [Poppler](https://poppler.freedesktop.org/). Si ese es el caso, hay dos opciones: trabajar en [Posit Cloud](https://posit.cloud) durante esta sesión o utilizar el "plan B" que se indicará en clases (básicamente, descargar el objeto que crearemos usando una función de pdftools). 
 
+### Tercera sesión
+
+Durante esta sesión ocuparemos los siguentes paquetes (además de los instalados en las sesiones anteriores):
+
+```
+install.packages(c("quanteda", "quanteda.textplots", "quanteda.textstats", "topicmodels", "broom"))
+```
+
 ## Actividades 
 
 Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el **código "en vivo"** en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. Si bien las actividades de la sección presencial y online son las mismas, es posible que avancemos a un ritmo distinto o que el código difiera un poco producto de cómo se da la discusión en clases. 
@@ -49,9 +57,14 @@ Todo el código que escribamos en clases asumirá que estás trabajando en un "p
 ### Documentación librerías utilizadas
 - [stringr](https://stringr.tidyverse.org/index.html)
 - [Hoja de referencia del paquete stringr en español](https://github.com/rstudio/cheatsheets/blob/main/translations/spanish/strings_es.pdf)
-  
+- [Quanteda](https://tutorials.quanteda.io/)
+
 ### Sobre expresiones regulares
 
 - [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
 - [Hoja de referencia de la sintaxis de expresiones regulares](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
+### Libros en línea
+
+- [Text Mining with R](https://www.tidytextmining.com/)
+- [Supervised Machine Learning for Text Analysis](https://smltar.com/)
