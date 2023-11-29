@@ -20,4 +20,14 @@ Hay dos aproximaciones para resolver el problema:
 
 :sparkles: [Solución]() (¡pronto!)
 
+### Ejercicio 2: Extracción de texto de un archivo en PDF + limpieza y preprocesamiento
+
+📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/jpfjz3m3d4zyph3scfpgd/02_extraccion-preprocesamiento.R?rlkey=k2vr0j7p28g57wula3aylwly9&dl=0)
+
+🗣️ [Ejemplo de archivo PDF](https://www.dropbox.com/scl/fi/7ubt6pceaw4hxfxgy75f7/20140521.pdf?rlkey=ggnx71ufih6jbtnlmf1nglvv6&dl=0) 
+
+([Plan B si tienen problemas con pdftools: el archivo *.rds](https://www.dropbox.com/scl/fi/topr9d7acuhe96b0mky26/discurso_2014.rds?rlkey=ab51ku4lhhquvag6i3fxn3ye3&dl=0))
+
+🔡 [Ejemplo de lista de "stopwords" en español](https://raw.githubusercontent.com/7PartidasDigital/AnaText/master/datos/diccionarios/vacias.txt)
+
 
