@@ -31,3 +31,18 @@ Hay dos aproximaciones para resolver el problema:
 🔡 [Ejemplo de lista de "stopwords" en español](https://raw.githubusercontent.com/7PartidasDigital/AnaText/master/datos/diccionarios/vacias.txt)
 
 
+### Ejercicio 3: TF-IDF
+
+📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/6zscoz2679ku5s2smzwrb/03_tf-idf.R?rlkey=ysp14c9lhhksicydr5o4apolt&dl=0)
+
+🗣️ [Datos](https://www.dropbox.com/scl/fo/nxnkhzdgvs3ra1tsnbbg7/h?rlkey=0b7pa4hrbj0diyvzznf58yumx&dl=0)
+
+### Ejercicio 4: Medidas de distancia/similitud y modelación de tópicos
+
+📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/67993s38fvrj4070z8ni8/04_cluster-topicos.R?rlkey=a7n8syay094lvwzv2an5xk5y8&dl=0)
+
+📰 [cinco noticias](https://www.dropbox.com/scl/fi/q4tl03zizim3i65lb9htz/cinco_noticias.csv?rlkey=tf1746j4jbw9bpoa8ywmqp9kc&dl=0)
+
+📰 [mil noticias](https://www.dropbox.com/scl/fi/mp84hnp53cfnol9g1fblv/mil_noticias.csv?rlkey=qw0v1zjrn0m7euadajnff80ly&dl=0)
+
+
