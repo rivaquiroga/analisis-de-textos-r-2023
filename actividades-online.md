@@ -43,6 +43,6 @@ Hay dos aproximaciones para resolver el problema:
 
 📰 [cinco noticias](https://www.dropbox.com/scl/fi/q4tl03zizim3i65lb9htz/cinco_noticias.csv?rlkey=tf1746j4jbw9bpoa8ywmqp9kc&dl=0)
 
-📰 [mil noticias](https://www.dropbox.com/scl/fi/mp84hnp53cfnol9g1fblv/mil_noticias.csv?rlkey=qw0v1zjrn0m7euadajnff80ly&dl=0)
+📰 [mil noticias](https://www.dropbox.com/scl/fi/ci52u0cf8lpt5rpxejrdb/mil-noticias.csv?rlkey=v39dyhlmus14z1x4sh6x12l8f&dl=0)
 
 
