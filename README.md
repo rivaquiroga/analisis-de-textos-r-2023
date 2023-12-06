@@ -64,8 +64,10 @@ Todo el código que escribamos en clases asumirá que estás trabajando en un "p
 - [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
 - [Hoja de referencia de la sintaxis de expresiones regulares](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-### Libros y artículos en línea
+### Libros, artículos y tutoriales en línea
 
+- [AnalizaR datos Políticos](https://arcruz0.github.io/libroadp/)
+- [Programming Historian (tutoriales en línea)](http://programminghistorian.org/es/)
 - [Text Mining with R](https://www.tidytextmining.com/)
 - [Supervised Machine Learning for Text Analysis](https://smltar.com/)
 - [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
